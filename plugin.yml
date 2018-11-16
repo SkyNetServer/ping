@@ -1,0 +1,12 @@
+name: Ping
+main: skynet\Main
+version: 1.0.0
+api:
+- 3.0.0
+- 3.1.2
+- 4.0.0
+
+commands:
+ ping:
+  description: "your ping (in ms)"
+  usage: "/ping"
