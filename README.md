@@ -1,3 +1,3 @@
 # Pocketmine 
 
->A plugin that tell player their ping in MS<br>
+>A plugin that tell players their ping in MS<br>
